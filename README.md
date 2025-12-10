@@ -4,6 +4,16 @@
 <img src="assets/appetizer.png" width="50%" alt="CP-Env Overview">
 </p>
 
+## Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Running the Simulation](#running-the-simulation)
+  - [Evaluation](#evaluation)
+- [Metrics](#metrics)
+- [Citation](#citation)
+  
 ## Introduction
 
 **CP-Env** represents our attempt to address the critical gap in evaluating LLM-based agents for healthcare applications. While existing medical benchmarks have made valuable contributions, they primarily focus on examination-style knowledge assessment or conversational abilities in isolated patient dialogues, which may not fully capture the complexity of real-world clinical practice.
@@ -74,6 +84,6 @@ CP-Env employs a comprehensive Agent Evaluation Framework that systematically ev
 - **Process Competency**: Assesses whether the agent demonstrates sound and logically coherent problem-solving processes throughout the healthcare workflow.
 - **Professional Ethics**: Examines whether the agent maintains ethical compliance and delivers humanistic care in patient interactions.
 
-## citation
+## Citation
 
 If you find this work useful, please cite our paper.
