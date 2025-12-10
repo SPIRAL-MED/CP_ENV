@@ -8,9 +8,9 @@
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Running the Simulation](#running-the-simulation)
-  - [Evaluation](#evaluation)
+  - [Installation](#1-installation)
+  - [Running the Simulation](#2-running-the-simulation)
+  - [Evaluation](#3-evaluation)
 - [Metrics](#metrics)
 - [Contact Us](#contact-us)
 - [Citation](#citation)
