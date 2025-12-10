@@ -12,6 +12,7 @@
   - [Running the Simulation](#running-the-simulation)
   - [Evaluation](#evaluation)
 - [Metrics](#metrics)
+- [Contact Us](#contact-us)
 - [Citation](#citation)
   
 ## Introduction
@@ -83,6 +84,10 @@ CP-Env employs a comprehensive Agent Evaluation Framework that systematically ev
 - **Clinical Efficacy**: Evaluates whether the agent can successfully resolve medical problems and optimize patient outcomes through accurate diagnosis and therapeutic interventions.
 - **Process Competency**: Assesses whether the agent demonstrates sound and logically coherent problem-solving processes throughout the healthcare workflow.
 - **Professional Ethics**: Examines whether the agent maintains ethical compliance and delivers humanistic care in patient interactions.
+
+## Contact Us
+
+If you are interested in our project and would like to join us, feel free to send an email to [xiaofan.zhang@sjtu.edu.cn](mailto:xiaofan.zhang@sjtu.edu.cn).
 
 ## Citation
 
