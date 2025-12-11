@@ -17,14 +17,14 @@
   
 ## Introduction
 
-**CP-Env** represents our attempt to address the critical gap in evaluating LLM-based agents for healthcare applications. While existing medical benchmarks have made valuable contributions, they primarily focus on examination-style knowledge assessment or conversational abilities in isolated patient dialogues, which may not fully capture the complexity of real-world clinical practice.
+**CP-Env** represents our attempt to address the critical gap in evaluating LLM-based agents for healthcare applications. While existing medical benchmarks have made valuable contributions, they primarily focus on examination-style knowledge assessment or conversational abilities in isolated patient dialogues, which may not fully capture the complexity of clinical pathways in real-world clinical practice.
 
-In response to these limitations, we develop **CP-Env** as an open-ended, dynamic, agentic simulation hospital environment that enables LLM agents to engage in clinically realistic workflows. Our environment goes beyond traditional QA formats by simulating the complete patient care journey - from initial consultation through diagnosis and treatment. In **CP-Env**, LLM agents assume diverse healthcare roles, interact with simulated patients who accurately report their clinical conditions, and collaborate across multiple hospital departments. This design allows us to evaluate not only medical knowledge but also critical capabilities such as tool utilization, long-sequence task management, and multi-agent coordination that are essential in actual clinical settings.
+In response to these limitations, we develop **CP-Env** as an open-ended, dynamic, agentic simulation hospital environment that enables LLM agents to navigate realistic clinical pathways. Our environment goes beyond traditional QA formats by simulating the complete patient care journey - from initial consultation through diagnosis and treatment. In **CP-Env**, LLM agents assume diverse healthcare roles, interact with simulated patients who accurately report their clinical conditions, and collaborate across multiple hospital departments as they traverse different pathway branches. This design allows us to evaluate not only medical knowledge but also critical capabilities such as tool utilization, pathway-based decision making, and multi-agent coordination that are essential in actual clinical settings.
 
 <p align="center">
 <img src="assets/main.png" width="100%" alt="CP-Env Framework">
 
-We hope that **CP-Env** can serve as a more comprehensive evaluation framework that better reflects the intricate workflows and dynamic decision-making required in modern healthcare delivery.
+We hope that **CP-Env** can serve as a more comprehensive evaluation framework that better reflects the adaptive clinical pathways and dynamic decision-making required in modern healthcare delivery.
 
 ## Getting Started
 
