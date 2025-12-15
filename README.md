@@ -92,3 +92,12 @@ If you are interested in our project and would like to join us, feel free to sen
 ## Citation
 
 If you find this work useful, please cite our paper.
+
+```
+@article{zhu2025cp,
+  title={CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment},
+  author={Zhu, Yakun and Huang, Zhongzhen and Feng, Qianhan and Mu, Linjie and Gu, Yannian and Zhang, Shaoting and Dou, Qi and Zhang, Xiaofan},
+  journal={arXiv preprint arXiv:2512.10206},
+  year={2025}
+}
+```
